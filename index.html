@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Institutional Analytics Dashboard</title>
+<meta name="description" content="Institutional Analytics & Executive Dashboard: students, attendance, results, faculty, admissions and placements in one place.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Literata:opsz,wght@7..72,400..600&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  (function () {
+    try {
+      var saved = localStorage.getItem('iaed.theme.v1');
+      if (saved) {
+        var t = JSON.parse(saved);
+        if (t === 'dark' || t === 'light') {
+          document.documentElement.setAttribute('data-theme', t);
+        }
+      } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+<div id="root"></div>
+<script src="js/sample-data.js"></script>
+<script src="js/csv.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+<script src="js/roles/admin.js"></script>
+<script src="js/roles/director.js"></script>
+<script src="js/roles/hod.js"></script>
+<script src="js/roles/student.js"></script>
+</body>
+</html>

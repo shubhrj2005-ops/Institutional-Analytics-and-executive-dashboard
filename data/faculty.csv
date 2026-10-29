@@ -1,0 +1,114 @@
+faculty_id,name,department,designation,qualification,experience_years
+FAC-CSE-01,Dr. Prachi Pandey,CSE,Professor,Ph.D.,30
+FAC-CSE-02,Dr. Siddharth Tyagi,CSE,Professor,Ph.D.,27
+FAC-CSE-03,Dr. Utkarsh Bansal,CSE,Professor,Ph.D.,21
+FAC-CSE-04,Dr. Megha Bhatt,CSE,Professor,Ph.D.,21
+FAC-CSE-05,Dr. Nidhi Negi,CSE,Professor,Ph.D.,27
+FAC-CSE-06,Dr. Karan Joshi,CSE,Associate Professor,Ph.D.,12
+FAC-CSE-07,Dr. Aarav Pandey,CSE,Associate Professor,Ph.D.,13
+FAC-CSE-08,Mr. Raghav Pandey,CSE,Associate Professor,M.Tech,13
+FAC-CSE-09,Dr. Shreya Sharma,CSE,Associate Professor,Ph.D.,11
+FAC-CSE-10,Dr. Rajat Tiwari,CSE,Associate Professor,Ph.D.,10
+FAC-CSE-11,Mr. Mohit Kapoor,CSE,Associate Professor,M.Tech,17
+FAC-CSE-12,Mr. Sahil Sharma,CSE,Associate Professor,M.Tech,16
+FAC-CSE-13,Dr. Tanvi Reddy,CSE,Associate Professor,Ph.D.,11
+FAC-CSE-14,Dr. Tanvi Chauhan,CSE,Associate Professor,Ph.D.,15
+FAC-CSE-15,Ms. Mansi Ansari,CSE,Assistant Professor,M.Tech,6
+FAC-CSE-16,Mr. Tushar Malhotra,CSE,Assistant Professor,M.Tech,6
+FAC-CSE-17,Dr. Deepak Joshi,CSE,Assistant Professor,Ph.D.,11
+FAC-CSE-18,Ms. Aditi Tyagi,CSE,Assistant Professor,M.Tech,9
+FAC-CSE-19,Dr. Muskan Chaudhary,CSE,Assistant Professor,Ph.D.,3
+FAC-CSE-20,Ms. Pooja Dubey,CSE,Assistant Professor,M.Tech,10
+FAC-CSE-21,Mr. Parth Kapoor,CSE,Assistant Professor,M.Tech,9
+FAC-CSE-22,Dr. Riya Nair,CSE,Assistant Professor,Ph.D.,4
+FAC-CSE-23,Dr. Radhika Rana,CSE,Assistant Professor,Ph.D.,4
+FAC-CSE-24,Ms. Muskan Gupta,CSE,Assistant Professor,M.Tech,1
+FAC-CSE-25,Dr. Manish Mehta,CSE,Assistant Professor,Ph.D.,7
+FAC-CSE-26,Ms. Nidhi Yadav,CSE,Assistant Professor,M.Tech,5
+FAC-CSE-27,Mr. Aarav Mehta,CSE,Assistant Professor,M.Tech,4
+FAC-CSE-28,Dr. Kunal Nair,CSE,Assistant Professor,Ph.D.,10
+FAC-CSE-29,Dr. Diya Tyagi,CSE,Assistant Professor,Ph.D.,9
+FAC-CSE-30,Ms. Radhika Sharma,CSE,Assistant Professor,M.Tech,9
+FAC-CSE-31,Mr. Sahil Chaudhary,CSE,Assistant Professor,M.Tech,11
+FAC-CSE-32,Dr. Srishti Goel,CSE,Assistant Professor,Ph.D.,6
+FAC-CSE-33,Dr. Vaishnavi Goel,CSE,Assistant Professor,Ph.D.,3
+FAC-CSE-34,Mr. Ankit Tyagi,CSE,Assistant Professor,M.Tech,5
+FAC-CSE-35,Mr. Utkarsh Chaudhary,CSE,Assistant Professor,M.Tech,11
+FAC-CSE-36,Mr. Varun Pandey,CSE,Assistant Professor,M.Tech,7
+FAC-CSE-37,Mr. Mohit Bhatt,CSE,Assistant Professor,M.Tech,7
+FAC-CSE-38,Dr. Shivam Shukla,CSE,Assistant Professor,Ph.D.,5
+FAC-CSE-39,Mr. Nitin Kumar,CSE,Assistant Professor,M.Tech,3
+FAC-CSE-40,Dr. Sahil Malhotra,CSE,Assistant Professor,Ph.D.,5
+FAC-ECE-01,Dr. Riya Malhotra,ECE,Professor,Ph.D.,23
+FAC-ECE-02,Dr. Ankit Yadav,ECE,Professor,Ph.D.,25
+FAC-ECE-03,Dr. Nitin Saxena,ECE,Associate Professor,Ph.D.,18
+FAC-ECE-04,Ms. Prachi Chauhan,ECE,Associate Professor,M.Tech,11
+FAC-ECE-05,Dr. Saurabh Khan,ECE,Associate Professor,Ph.D.,10
+FAC-ECE-06,Dr. Ankit Srivastava,ECE,Associate Professor,Ph.D.,16
+FAC-ECE-07,Ms. Radhika Mehta,ECE,Assistant Professor,M.Tech,4
+FAC-ECE-08,Ms. Megha Singh,ECE,Assistant Professor,M.Tech,4
+FAC-ECE-09,Dr. Aditya Joshi,ECE,Assistant Professor,Ph.D.,6
+FAC-ECE-10,Dr. Palak Mehta,ECE,Assistant Professor,Ph.D.,8
+FAC-ECE-11,Mr. Devansh Khan,ECE,Assistant Professor,M.Tech,2
+FAC-ECE-12,Dr. Sneha Bansal,ECE,Assistant Professor,Ph.D.,5
+FAC-ECE-13,Mr. Aditya Agarwal,ECE,Assistant Professor,M.Tech,2
+FAC-ECE-14,Dr. Kunal Ansari,ECE,Assistant Professor,Ph.D.,4
+FAC-ECE-15,Dr. Simran Negi,ECE,Assistant Professor,Ph.D.,3
+FAC-ECE-16,Mr. Rajat Srivastava,ECE,Assistant Professor,M.Tech,3
+FAC-ECE-17,Ms. Shreya Rana,ECE,Assistant Professor,M.Tech,5
+FAC-ECE-18,Dr. Yashika Chaudhary,ECE,Assistant Professor,Ph.D.,6
+FAC-ME-01,Dr. Abhishek Bansal,ME,Professor,Ph.D.,27
+FAC-ME-02,Dr. Kunal Yadav,ME,Professor,Ph.D.,24
+FAC-ME-03,Ms. Radhika Reddy,ME,Associate Professor,M.Tech,16
+FAC-ME-04,Dr. Sanya Khan,ME,Associate Professor,Ph.D.,16
+FAC-ME-05,Dr. Mansi Mehta,ME,Assistant Professor,Ph.D.,11
+FAC-ME-06,Mr. Mohit Yadav,ME,Assistant Professor,M.Tech,8
+FAC-ME-07,Dr. Deepak Jain,ME,Assistant Professor,Ph.D.,10
+FAC-ME-08,Dr. Tushar Yadav,ME,Assistant Professor,Ph.D.,6
+FAC-ME-09,Ms. Megha Goel,ME,Assistant Professor,M.Tech,8
+FAC-ME-10,Dr. Saurabh Malhotra,ME,Assistant Professor,Ph.D.,2
+FAC-ME-11,Mr. Deepak Shukla,ME,Assistant Professor,M.Tech,10
+FAC-ME-12,Ms. Priya Agarwal,ME,Assistant Professor,M.Tech,10
+FAC-CE-01,Dr. Arjun Joshi,CE,Professor,Ph.D.,25
+FAC-CE-02,Dr. Ishaan Khan,CE,Professor,Ph.D.,21
+FAC-CE-03,Dr. Mansi Agarwal,CE,Associate Professor,Ph.D.,18
+FAC-CE-04,Dr. Simran Das,CE,Associate Professor,Ph.D.,16
+FAC-CE-05,Ms. Sneha Srivastava,CE,Assistant Professor,M.Tech,8
+FAC-CE-06,Dr. Vivek Bisht,CE,Assistant Professor,Ph.D.,6
+FAC-CE-07,Mr. Kartik Ansari,CE,Assistant Professor,M.Tech,4
+FAC-CE-08,Ms. Sneha Kumar,CE,Assistant Professor,M.Tech,3
+FAC-CE-09,Mr. Mohit Gupta,CE,Assistant Professor,M.Tech,4
+FAC-CE-10,Dr. Yashika Jain,CE,Assistant Professor,Ph.D.,5
+FAC-CE-11,Ms. Khushi Joshi,CE,Assistant Professor,M.Tech,8
+FAC-BBA-01,Dr. Devansh Kumar,BBA,Professor,Ph.D.,19
+FAC-BBA-02,Dr. Nidhi Agarwal,BBA,Professor,Ph.D.,19
+FAC-BBA-03,Dr. Sumit Sharma,BBA,Associate Professor,Ph.D.,11
+FAC-BBA-04,Dr. Vivek Tiwari,BBA,Associate Professor,Ph.D.,11
+FAC-BBA-05,Dr. Khushi Agarwal,BBA,Associate Professor,Ph.D.,16
+FAC-BBA-06,Dr. Ayush Kapoor,BBA,Associate Professor,Ph.D.,17
+FAC-BBA-07,Dr. Riya Khan,BBA,Assistant Professor,Ph.D.,11
+FAC-BBA-08,Mr. Tanmay Sharma,BBA,Assistant Professor,MBA,10
+FAC-BBA-09,Mr. Shivam Reddy,BBA,Assistant Professor,MBA,10
+FAC-BBA-10,Ms. Khushi Saxena,BBA,Assistant Professor,MBA,8
+FAC-BBA-11,Dr. Kunal Tyagi,BBA,Assistant Professor,Ph.D.,2
+FAC-BBA-12,Dr. Aarav Khan,BBA,Assistant Professor,Ph.D.,8
+FAC-BBA-13,Ms. Pooja Sharma,BBA,Assistant Professor,MBA,3
+FAC-BBA-14,Mr. Raghav Tyagi,BBA,Assistant Professor,MBA,8
+FAC-BBA-15,Dr. Anjali Reddy,BBA,Assistant Professor,Ph.D.,9
+FAC-BBA-16,Dr. Yash Kumar,BBA,Assistant Professor,Ph.D.,8
+FAC-BBA-17,Ms. Pooja Dubey,BBA,Assistant Professor,MBA,10
+FAC-BBA-18,Dr. Nidhi Khan,BBA,Assistant Professor,Ph.D.,2
+FAC-MBA-01,Dr. Sumit Rawat,MBA,Professor,Ph.D.,30
+FAC-MBA-02,Dr. Radhika Shukla,MBA,Professor,Ph.D.,22
+FAC-MBA-03,Dr. Aman Chauhan,MBA,Associate Professor,Ph.D.,11
+FAC-MBA-04,Dr. Srishti Rana,MBA,Associate Professor,Ph.D.,14
+FAC-MBA-05,Dr. Nidhi Gupta,MBA,Associate Professor,Ph.D.,11
+FAC-MBA-06,Dr. Nitin Dubey,MBA,Assistant Professor,Ph.D.,9
+FAC-MBA-07,Mr. Karan Kumar,MBA,Assistant Professor,MBA,5
+FAC-MBA-08,Dr. Yashika Khan,MBA,Assistant Professor,Ph.D.,6
+FAC-MBA-09,Ms. Sneha Malhotra,MBA,Assistant Professor,MBA,4
+FAC-MBA-10,Dr. Palak Dubey,MBA,Assistant Professor,Ph.D.,3
+FAC-MBA-11,Dr. Rahul Nair,MBA,Assistant Professor,Ph.D.,1
+FAC-MBA-12,Dr. Megha Kapoor,MBA,Assistant Professor,Ph.D.,9
+FAC-MBA-13,Dr. Varun Rana,MBA,Assistant Professor,Ph.D.,5
+FAC-MBA-14,Mr. Lakshay Khan,MBA,Assistant Professor,MBA,1
